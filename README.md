@@ -1,6 +1,6 @@
 # Server Deployment
 
-# Purpose
+## Purpose
 The purpose of this repository is to create a desired server setup based on a configuration file.
 
 ## Requirements
